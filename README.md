@@ -13,3 +13,9 @@ Nesta atividade prática, crie um documento html, dentro dele crie 3 campos: nom
 Add-on
 
 Adicionei validação dos campos para que não permitisse mostrar a saída caso estejam em branco.
+
+![validaçãodoscampos](https://user-images.githubusercontent.com/62715353/202921265-5448d2d0-3dfa-458b-b3b1-2cbf0ca7590f.png)
+
+Após o preenchimento dos campos, a DIV é mostrada com as informações dos campos.
+
+![camposvalidados](https://user-images.githubusercontent.com/62715353/202921287-6a892021-9e67-4225-98c7-6449136e98fd.png)
